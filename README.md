@@ -3,6 +3,7 @@
 When I wrote my first Python script, I became interested in programming and started building projects to see what I could create.
 I’m currently working on a full-stack project to understand how all the parts of a system fit together.
 
+- I'm currently reading **Writing An Interpreter In Go** by Thorsten Ball.
 
 <!--
 **JustinLi007/JustinLi007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
